@@ -17,7 +17,3 @@ export default class App {
 
     }
 }
-
-// export function createFunc() {
-//     console.log('createFunc');
-// }
